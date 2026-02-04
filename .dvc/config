@@ -1,0 +1,6 @@
+[core]
+    remote = dvc-phani-bucket
+['remote "dvc-phani-bucket"']
+    url = gs://dvc-phani-bucket
+['remote "dummy"']
+    url = gs://dummy
